@@ -24,7 +24,7 @@ GEM
     mustermann (1.1.2)
       ruby2_keywords (~> 0.0.1)
     public_suffix (4.0.7)
-    rack (2.2.4)
+    rack (2.2.13)
     rack-protection (2.2.1)
       rack
     rake (13.0.6)
@@ -41,6 +41,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   fat_zebra
